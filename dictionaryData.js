@@ -83,4 +83,5 @@ export const dictionaryData = [
     pronunciation: 'ka-da-ghan-an',
     example: 'Ang kadaghanan sa mga tawo - The majority of people'
   }
-];
+];console.log('DictionaryData');
+console.log('DictionaryData');
