@@ -84,3 +84,4 @@ export const dictionaryData = [
     example: 'Ang kadaghanan sa mga tawo - The majority of people'
   }
 ];
+console.log('dictionaryData');
